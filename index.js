@@ -31,7 +31,7 @@ function ask(){
 }
 
 ask();
-
+debugger
 //Logic for responding to guesses
 function guess(letter){
     if(letter.length === 1){
@@ -70,5 +70,5 @@ function guess(letter){
         console.log("You can only guess one letter at a time!\n");
     }
     
-    
+  debugger  
 }

@@ -6,8 +6,8 @@ function Word(){
     //Pick a word and make the letters for it
     var letters = [];
 
-    var possible_words = [];
-    // var word = "stowaway";
+    // var possible_words = [];
+    
 
     //Get a random word
     var word = rand_word();
