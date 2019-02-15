@@ -6,11 +6,11 @@ This homework assignment is optional.
 
 In this unit's assignment, you will create a Word Guess command-line game using constructor functions. Here is an example of the results:
 
-![Finished Assignment](./images/finished_results.png "Finished Result")
+![Finished Assignment](https://drive.google.com/file/d/1hgAI9FXXV4ulIYfLyOwXPcP4K3iIs3eA/view?usp=sharing "Finished Result")
 
 ### The Instructions
 
-#### The completed game should meet the following criteria:
+#### The completed game should meet the following criteria
 
 - [X] The completed game should be able to receive user input using the inquirer or prompt npm packages.
 
@@ -58,8 +58,8 @@ In this unit's assignment, you will create a Word Guess command-line game using 
 
 #### _Hint_
 
-**Letter.js should not require any other files**
+** Letter.js should not require any other files **
 
-**Word.js should only require Letter.js**
+** Word.js should only require Letter.js **
 
-**Write Letter.js first and test it on its own before moving on, then do the same thing with Word.js**
+** Write Letter.js first and test it on its own before moving on, then do the same thing with Word.js **
