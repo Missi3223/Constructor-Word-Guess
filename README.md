@@ -6,7 +6,7 @@ This homework assignment is optional.
 
 In this unit's assignment, you will create a Word Guess command-line game using constructor functions. Here is an example of the results:
 
-![Finished Assignment](https://drive.google.com/file/d/1hgAI9FXXV4ulIYfLyOwXPcP4K3iIs3eA/view?usp=sharing "Finished Result")
+![Finished Assignment](./images/Constructor-Word-Guess.gif "Finished Result")
 
 ### The Instructions
 
